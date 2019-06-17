@@ -1,0 +1,1 @@
+{"k_size": 3, "stride": 1, "batch_size": 20, "read_length": 100, "hidden_size": 30, "number_of_layers": 2, "lr": 0.3, "optimizer": "SGD"}
